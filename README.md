@@ -55,6 +55,12 @@ Passionate about coding, cybersecurity, and problem-solving. I spend my time tin
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=pragati-singhal&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/pet.svg" width="100%">
+</picture>
+
 ### 💭 Dev Quote
 
 <p align="center">
