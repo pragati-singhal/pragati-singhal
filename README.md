@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/pragati-singhal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=%23%20Hey%2C%20Pragati%20Here!!%20%F0%9F%91%8B%F0%9F%98%8E&customFont=VT323" alt="# Hey, Pragati Here!! 👋😎" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=%23%20Hey%2C%20Pragati%20Here!!%20%F0%9F%91%8B%F0%9F%98%8E" alt="# Hey, Pragati Here!! 👋😎" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Security-Minded%20Coder%20%26%20Tech%20Enthusiast;Protecting%20digital%20spaces%20while%20finding%20downtime%20in%20good%20fiction%2C%20great%20playlists%2C%20and%20caffeine..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Security-Minded+Coder+%26+Tech+Enthusiast;Protecting+digital+spaces;Finding+downtime+in+good+fiction+%26+caffeine..." alt="Typing headlines" />
 </p>
 
 <picture>
@@ -67,9 +67,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat-light.svg">
-  <img alt="isometric cat graph" src="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/graph-light.svg">
+  <img alt="flat contribution graph" src="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/graph.svg" width="100%">
 </picture>
 
 ### 🔗 Connect With Me
