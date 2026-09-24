@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/pragati-singhal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&font=Rubik+Glitch&fontColor=4f46e5&fontSize=54&height=90&width=922&text=%23%20Hey%2C%20Pragati%20Here!!%20%F0%9F%91%8B%F0%9F%98%8E" alt="# Hey, Pragati Here!! 👋😎" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=%23%20Hey%2C%20Pragati%20Here!!%20%F0%9F%91%8B%F0%9F%98%8E&customFont=VT323" alt="# Hey, Pragati Here!! 👋😎" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=%F0%9F%94%90%20Security-Minded%20Coder%20%26%20Tech%20Enthusiast;Protecting%20digital%20spaces%20while%20finding%20downtime%20in%20good%20fiction%2C%20great%20playlists%2C%20and%20caffeine..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Security-Minded%20Coder%20%26%20Tech%20Enthusiast;Protecting%20digital%20spaces%20while%20finding%20downtime%20in%20good%20fiction%2C%20great%20playlists%2C%20and%20caffeine..." alt="Typing headlines" />
 </p>
 
 <picture>
@@ -66,6 +66,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat-light.svg">
+  <img alt="isometric cat graph" src="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg" width="100%">
+</picture>
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -73,12 +79,6 @@
   <a href="https://instagram.com/singhal.soul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:ps27072006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat-light.svg">
-  <img alt="isometric cat graph" src="https://raw.githubusercontent.com/pragati-singhal/pragati-singhal/main/dist/isocat.svg" width="100%">
-</picture>
 
 ### 💭 Dev Quote
 
