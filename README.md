@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://github.com/pragati-singhal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=%23%20Hey%2C%20Pragati%20Here!!%20%F0%9F%91%8B%F0%9F%98%8E" alt="# Hey, Pragati Here!! 👋😎" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=40&duration=1&repeat=false&color=8B0000&center=true&vCenter=true&width=900&height=90&lines=%23%20Hey%2C%20Pragati%20Here!!&v=9" alt="# Hey, Pragati Here!!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Security-Minded+Coder+%26+Tech+Enthusiast;Protecting+digital+spaces;Finding+downtime+in+good+fiction+%26+caffeine..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=1200&height=44&lines=Security-Minded%20Coder%20%26%20Tech%20Enthusiast;Protecting%20digital%20spaces%20while%20finding%20downtime%20in%20good%20fiction%2C%20great%20playlists%2C%20and%20caffeine...&v=9" alt="Typing headlines" />
 </p>
 
 <picture>
@@ -85,6 +83,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/pragati-singhal">pragati-singhal</a></i></p>
