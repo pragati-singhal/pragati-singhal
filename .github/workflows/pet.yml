@@ -14,4 +14,4 @@ jobs:
         with:
           username: pragati-singhal
           timezone-offset-minutes: "330"
-          accent-color: "b30000"
+          accent-color: "#b30000"
